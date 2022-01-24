@@ -3,5 +3,7 @@ Implemented methods of Machine Learning to develop a sustainable model of precis
 required by the crop at an hourly rate by analysing GFS dataset from Google Earth Engine.
 
 Website : https://sites.google.com/view/projectfarmtech/home
+
 ML Team Head : Anagh Pranshu
+
 ML Team Member (myself) : Hima Varshith
