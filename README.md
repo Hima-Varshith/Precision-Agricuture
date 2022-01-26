@@ -4,6 +4,6 @@ required by the crop at an hourly rate by analysing GFS dataset from Google Eart
 
 Website : https://sites.google.com/view/projectfarmtech/home
 
-ML Team Head : Anagh Pranshu
-
 ML Team Member (myself) : Hima Varshith
+
+ML Team Head : Anagh Pranshu
